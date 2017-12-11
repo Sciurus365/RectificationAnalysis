@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513001764798.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "484837431",
+    "id" : "44851AE7",
+    "lastKnownWriteTime" : 1513003059,
+    "last_content_update" : 1513003059994,
+    "path" : "E:/Sync/Rectification Analysis/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "101,4",
+        "scrollLine" : "87",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
