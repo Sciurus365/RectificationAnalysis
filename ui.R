@@ -62,7 +62,7 @@ fluidPage(theme = shinytheme("united"),
                      p(strong("崔竞蒙"),"北京大学化学与分子工程学院 2015级本科生"),
                      h2("联系方式"),
                      p("cuijm@pku.edu.cn"),
-                     
+                     a("Github: github.com/Sciurus365/RectificationAnalysis", href="https://github.com/Sciurus365/RectificationAnalysis"),
                      h2("更新日期"),
                      p("2017.12.7"),
                      p("Powered by", a("Shiny 1.0.5", href = "http://shiny.rstudio.com/"))
