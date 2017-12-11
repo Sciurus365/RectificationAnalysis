@@ -64,7 +64,7 @@ fluidPage(theme = shinytheme("united"),
                      p("cuijm@pku.edu.cn"),
                      a("Github: github.com/Sciurus365/RectificationAnalysis", href="https://github.com/Sciurus365/RectificationAnalysis"),
                      h2("更新日期"),
-                     p("2017.12.7"),
+                     p("2017.12.11"),
                      p("Powered by", a("Shiny 1.0.5", href = "http://shiny.rstudio.com/"))
                      
             )
