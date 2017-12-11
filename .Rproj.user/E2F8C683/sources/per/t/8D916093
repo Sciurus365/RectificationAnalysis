@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513001670935.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "367332918",
+    "id" : "8D916093",
+    "lastKnownWriteTime" : 1513005027,
+    "last_content_update" : 1513005027,
+    "path" : "~/GitHub/RectificationAnalysis/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "66,34",
+        "scrollLine" : "52",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
